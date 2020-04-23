@@ -1,0 +1,2 @@
+E:\Documents\Visual Studio 2012\Projects\CS\CS\obj\Debug\Interop.WMPLib.dll
+E:\Documents\Visual Studio 2012\Projects\CS\CS\obj\Debug\AutoScore.csproj.ResolveComReference.cache
